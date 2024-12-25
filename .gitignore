@@ -130,3 +130,4 @@
   .yarn/install-state.gz
   node_modules
 node_modules
+.next
